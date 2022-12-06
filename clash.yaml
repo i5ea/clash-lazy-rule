@@ -203,14 +203,9 @@ rules:
   - DOMAIN-SUFFIX,pscp.tv,Proxy
   - DOMAIN-SUFFIX,lvv2.com,Proxy
   - DOMAIN-SUFFIX,mirror.xyz,Proxy
-  - DOMAIN-SUFFIX,buydomains.com,Proxy
-  - DOMAIN-KEYWORD,icloud,Proxy
-  - DOMAIN-KEYWORD,annulet.com,Proxy
   - DOMAIN-KEYWORD,ca.gov,Proxy
   - DOMAIN-KEYWORD,pexels.com,Proxy
   - DOMAIN-KEYWORD,cmx.im,Proxy
-  - DOMAIN-KEYWORD,virmach.com,Proxy
-  - DOMAIN-KEYWORD,juwai.com,Proxy
   - DOMAIN-KEYWORD,bbc.in,Proxy
 
   # TikTok
